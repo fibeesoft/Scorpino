@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 683e4f2001b0e7d42a258287f6faf926
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2372691291917233574
+    second: scorpino_0
+  - first:
+      213: -8405963609849257450
+    second: scorpino_1
+  - first:
+      213: 4630779663517351904
+    second: scorpino_2
+  - first:
+      213: -3434203837392890572
+    second: scorpino_3
+  - first:
+      213: 8123653891994817940
+    second: scorpino_4
+  - first:
+      213: -7176182646880574592
+    second: scorpino_5
+  - first:
+      213: 6497755543378240707
+    second: scorpino_6
+  - first:
+      213: -8957268048037541140
+    second: scorpino_7
+  - first:
+      213: -1604862892588762911
+    second: scorpino_8
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scorpino_0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1690
+        width: 296
+        height: 234
+      alignment: 9
+      pivot: {x: 0.9877505, y: 0.03411448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5035c685f0fa4fa55324c31f7b302
+      internalID: 2372691291917233574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_1
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 620
+        width: 728
+        height: 1304
+      alignment: 9
+      pivot: {x: 0.95329404, y: 0.1429961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8dec28e2a7c841bbcaedf4d0d5aba
+      internalID: -8405963609849257450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1345
+        width: 195
+        height: 258
+      alignment: 9
+      pivot: {x: 0.9986235, y: 0.9682281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3248763a0b946b94a9f0de0278c15242
+      internalID: 4630779663517351904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_3
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1073
+        width: 364
+        height: 464
+      alignment: 9
+      pivot: {x: -0.009955773, y: -0.014352206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68633418455434a4da24e61abd761e2f
+      internalID: -3434203837392890572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_4
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 583
+        width: 950
+        height: 807
+      alignment: 9
+      pivot: {x: 0.34492573, y: 0.10933567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd2086e589cfb42b4c95501b21d6bf
+      internalID: 8123653891994817940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1083
+        width: 178
+        height: 164
+      alignment: 9
+      pivot: {x: 0.26825976, y: 0.967114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e43c4b2f5a50046bfcd92d514fa095
+      internalID: -7176182646880574592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 728
+        height: 987
+      alignment: 9
+      pivot: {x: 0.9856722, y: 0.649261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643f30f805d13040beb012d7b2d7e45
+      internalID: 6497755543378240707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_7
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 499
+        height: 371
+      alignment: 9
+      pivot: {x: 0.24610084, y: 0.6429525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df3ba6cf3ca0c46b644ebfbda3b781
+      internalID: -8957268048037541140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorpino_8
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 148
+        width: 524
+        height: 214
+      alignment: 9
+      pivot: {x: 0.25821412, y: 0.389854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c7688a5d866e64b9de874814283067
+      internalID: -1604862892588762911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
